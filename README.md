@@ -1,54 +1,27 @@
-# <Muhammad Ahsan>
+![logo](https://github.com/MrAhsan777/mrAhsan777/blob/main/Blue%20Modern%20Artificial%20Intelligence%20Technology%20Logo.png)
+<h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
+<h3 align="center">A passionate student of Artificial student from Pakistan</h3>
 
-## 👨‍💻 About Me
-I am a passionate AI engineering student with a strong background in Python. My interest lies in artificial intelligence, machine learning, and data science. I love exploring new technologies and applying them to solve real-world problems.
+<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3y7DFHQ6KsCGFLGHzJix58&ust=1709226696590000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjPgubDzoQDFQAAAAAdAAAAABAE
 
-## 🚀 Skills
-- **Programming Languages:** Python
-- **Machine Learning:** TensorFlow, PyTorch
-- **Web Development:** Flask
-- **Database:** SQL, MongoDB
-- **Version Control:** Git
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haiqa31&label=Profile%20views&color=0e75b6&style=flat" alt="haiqa31" /> </p>
 
-## 📚 Education
-- Bachelor of Science in AI Engineering, [Quaid-e-Awam University of Engineering, Sciences & Technology], [2023] - Present
+- 📫 How to reach me **ahsanarain4246@gmail.com**
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ahsanarain777/)
-- [Twitter](https://twitter.com/AhsanAr92118605)
-- [Portfolio Website](https://www.yourwebsite.com)
+- ⚡ Fun fact **Best at jokes🤭**
 
-## 🛠️ Projects
-Here are some of my notable projects:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/haiqa khanzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haiqa khanzada" height="30" width="40" /></a>
+<a href="https://fb.com/haiqa khanzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haiqa khanzada" height="30" width="40" /></a>
+<a href="https://instagram.com/hai_kaa31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsanarain_777" height="30" width="40" /></a>
+</p>
 
-### [Project Name 1](link-to-project-1)
-- Brief description of the project.
-- Technologies used.
-- Any key outcomes or learnings.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### [Project Name 2](link-to-project-2)
-- Brief description of the project.
-- Technologies used.
-- Any key outcomes or learnings.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrAhsan777&show_icons=true&locale=en&layout=compact" alt="mrAhsan777" /></p>
 
-## 📷 Screenshots
-![Screenshot 1](url-to-screenshot-1)
-Caption for Screenshot 1.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmrAhsan777&show_icons=true&locale=en" alt="mrAhsan777" /></p>
 
-![Screenshot 2](url-to-screenshot-2)
-Caption for Screenshot 2.
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🌱 Currently Learning
-I am currently focused on improving my skills in [specific area or technology].
-
-## 🤝 Collaboration
-I am open to collaboration on interesting projects. Feel free to reach out if you have a project in mind.
-
-## 📫 How to Reach Me
-- Email: johnrocks482@gmail.com
-
-
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrAhsan777&" alt="mrAhsan777" /></p>
